@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Quick Links Manager",
+  "version": "1.0",
+  "description": "Збереження та керування важливими посиланнями у браузері",
+  "permissions": ["storage", "activeTab"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
